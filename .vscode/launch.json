@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sumit7/Documents/cse3320pr",
+      "program": "/Users/sumit7/Documents/cse3320pr/build/Debug/outDebug"
+    }
+  ]
+}
